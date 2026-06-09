@@ -70,6 +70,21 @@ A Python-based expense management application.
 - Calculate total expenses
 - Save records using file handling
 
+### 7. Password Generator
+A Python application that generates secure and random passwords based on user-defined length.
+
+**Features:**
+- Generate strong random passwords
+- User-defined password length
+- Includes uppercase and lowercase letters
+- Includes numbers and special characters
+- Menu-driven interface
+
+**Technologies Used:**
+- Python
+- Random Module
+- String Module
+
 ---
 
 ## Technologies Used
