@@ -85,6 +85,23 @@ A Python application that generates secure and random passwords based on user-de
 - Random Module
 - String Module
 
+### 8. Quiz App
+
+A Python-based quiz application that tests users with multiple-choice questions and calculates their final score.
+
+**Features:**
+- Multiple-choice questions
+- Automatic score calculation
+- Instant answer feedback
+- Percentage calculation
+- Command-line interface
+
+**Technologies Used:**
+- Python
+- Lists
+- Dictionaries
+- Functions
+
 ---
 
 ## Technologies Used
@@ -140,8 +157,13 @@ data-science-projects/
 │   ├── expenses.json
 │   └── README.md
 │
-│
 ├── password-generator/
 │   ├── password_generator.py
 │   └── README.md
+│
+├── quiz-app/
+│   ├── quiz_app.py
+│   └── README.md
+│
 └── README.md
+
