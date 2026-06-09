@@ -125,4 +125,8 @@ data-science-projects/
 │   ├── expenses.json
 │   └── README.md
 │
+│
+├── password-generator/
+│   ├── password_generator.py
+│   └── README.md
 └── README.md
